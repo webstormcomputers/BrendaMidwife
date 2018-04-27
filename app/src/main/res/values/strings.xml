@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BrendaMidwife</string>
+    <string name="Tagline">Brenda Buffington Midwife</string>
+    <string name="number">1-409-739-3904</string>
+    <string name="website">Website</string>
+    <string name="imgCaption">Brenda holding a just born baby.</string>
+    <string name="slogan">Helping woman achieve the birth they want.</string>
 </resources>
